@@ -8,7 +8,7 @@ Welcome to our Case Study. You've made it to the final phase of our selection pr
 
 **Problem Domain:** Automotive e-commerce analytics
 
-**Submission Deadline:** 18/06/2024 at 04:00 p.m.
+**Submission Deadline:** 18/06/2024 at 04:00 p.m. CET/GMT+2
 
 **Submission Instructions:**
 Please submit your work by emailing us your code and results in Notebook (.ipynb) and HTML formats with printed results. To ensure we receive your submission without issues, we recommend using a file-sharing service such as Google Drive or Dropbox. But preferably if you have a GitHub account, you may also create a private repository and invite us to access it. @maximilianmaukner, @RandomAnass.
