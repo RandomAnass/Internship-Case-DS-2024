@@ -1,0 +1,13 @@
+car_id,car_model,fuel_type,release_date,price
+68bdd204-3776-4b2d-9bc8-0e38e126ae80,Model S,Electric,2012-06-22,94990
+9b34817b-6e65-4002-841f-0ba0287f2e6f,Model 3,Electric,2017-07-28,46990
+71cb7ff7-edf4-4c28-95ae-bbc3316ffae2,Model X,Electric,2015-09-29,114990
+f125b83d-56ba-49d4-88b1-f2939898275d,Model Y,Electric,2020-03-13,62990
+6373bb9e-8b2e-41f0-99fd-19b107d2ba64,Civic,Gasoline,2021-06-16,22700
+47e92843-bffb-4253-8e2c-d349861ecc17,Accord,Gasoline,2017-10-18,26120
+cd01782c-41d5-4e2a-9a7b-64019763d39e,CR-V,Gasoline,2016-12-21,25750
+4f57c784-0cac-49d4-987b-6bc31c1bd25a,Corolla,Gasoline,2019-11-16,20075
+b054051e-05bb-4867-b0c2-4fe925c18d7c,Camry,Gasoline,2017-07-15,25295
+d3c26b30-bae8-45fd-ab60-491ae4eecb95,Silverado,Diesel,2018-08-18,29800
+738d2d76-3eaa-4046-abb3-5903b68cee8b,Sierra,Diesel,2018-10-04,30800
+9b30048a-354f-4a32-a116-1693a807b470,Ram 1500,Diesel,2018-01-16,33975
